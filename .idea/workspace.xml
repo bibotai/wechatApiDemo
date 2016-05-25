@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19b159dc-8de1-4b53-bfdb-0a0c6f80d463" name="Default" comment="再改">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Demo/example.js" afterPath="$PROJECT_DIR$/Demo/example.js" />
     </list>
     <ignored path="weixinApiDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,12 +34,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/example.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28099173">
+            <state vertical-scroll-proportion="0.0">
               <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor vertical-scroll-proportion="0.0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -62,6 +74,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -268,7 +283,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464159511214</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="再改">
+      <created>1464159637395</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1464159637395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -363,9 +384,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/example.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28099173">
+        <state vertical-scroll-proportion="0.0">
           <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
