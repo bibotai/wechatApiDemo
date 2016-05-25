@@ -3,7 +3,7 @@
  */
 var wechat = require('./../index').weixintools;
 var wechatUesr = require('./../index').usertools;
-//var wechatBund = require('./../index').bundtools;
+var wechatBund = require('./../index').bundtools;
 var config = require('./config');
 
 var api = new wechat(config.appid, config.appsecret);
