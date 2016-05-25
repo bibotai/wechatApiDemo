@@ -22,6 +22,9 @@ api.GetAccessToken(function (data) {
 //    access_token: 'access_token',
 //    openid: 'openid',
 
+
+
+
 //    lang: 'lang',
 //}
 //
