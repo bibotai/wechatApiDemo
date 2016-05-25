@@ -3,7 +3,7 @@
  */
 var wechat = require('./../index').weixintools;
 var wechatUesr = require('./../index').usertools;
-var wechatBund = require('./../index').bundtools;
+//var wechatBund = require('./../index').bundtools;
 var config = require('./config');
 
 var api = new wechat(config.appid, config.appsecret);
@@ -32,15 +32,15 @@ wechatUesr.GetUserInfo(argsUser, function (data) {
 });
 
  //绑定参数
- var argsBund = {
-     access_token: 'access_token',
-     ticket: 'ticket',
-     device_id:'device_id',
-     openid: 'openid'
- };
+ //var argsBund = {
+ //    access_token: 'access_token',
+ //    ticket: 'ticket',
+ //    device_id:'device_id',
+ //    openid: 'openid'
+ //};
  /**
   * 绑定成功通知
   */
- wechatBund.Bund(argsBund, function (data) {
-     console.log('bund:' + data);
- });
+ //wechatBund.Bund(argsBund, function (data) {
+ //    console.log('bund:' + data);
+ //});
